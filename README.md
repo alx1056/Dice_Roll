@@ -1,2 +1,2 @@
 # Dice_Roll
-Dice Roll Game
+Simplisitc dice roll game using random number generator
